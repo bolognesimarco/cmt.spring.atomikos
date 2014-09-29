@@ -1,0 +1,19 @@
+Spring Transaction Management è basato sulla transaction strategy la quale 
+è definita dall'interfaccia PlatformTransactionManager.
+
+Le implementazioni di questa interfaccia da usare dipendono appunto dalla strategia
+adottata:
+
+JtaTransactionManager e DataSourceTransactionManager sono le implementazioni di default
+e le più usate. Per es. la prima è quella usata per l'integrazione con spring e la
+seconda quando si usa jdbc.Poi ci sono: 
+JpaTransactionManager
+HibernateTransactionManager
+JmsTransactionManager
+TopLinkTransactionManager
+WeblogicJtaTransactionManager
+etc..
+
+
+Si può anche fornire una proria implementazione, meglio estendendo 
+AbstractPlatformTransactionManager.

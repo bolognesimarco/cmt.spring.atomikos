@@ -1,0 +1,8 @@
+14-09-09 12:29:31,459 [main] Logfile closed: C:\Fidevita\mioworkspace\mio\cmt.spring.atomikos\.\tmlog-1.log
+14-09-09 12:29:31,459 [main] crmds: refreshed XAResource
+14-09-09 12:29:31,490 [main] miods: refreshed XAResource
+14-09-09 12:30:02,443 [main] Starting read of logfile C:\Fidevita\mioworkspace\mio\cmt.spring.atomikos\.\tmlog0.log
+14-09-09 12:30:02,489 [main] Done read of logfile
+14-09-09 12:30:02,489 [main] Logfile closed: C:\Fidevita\mioworkspace\mio\cmt.spring.atomikos\.\tmlog0.log
+14-09-09 12:30:02,505 [main] crmds: refreshed XAResource
+14-09-09 12:30:02,521 [main] miods: refreshed XAResource
